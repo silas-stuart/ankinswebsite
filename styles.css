@@ -1,0 +1,71 @@
+.theBackground {
+  display: flexbox;
+  padding: 20px;
+  font-size: 1.1rem;
+}
+
+.container-fluid div {
+  justify-content: space-evenly;
+  font-size: 18px;
+}
+
+.navbar-nav li {
+  /* border-radius: 10px; */
+  transition: 0.5s;
+}
+
+.navbar-nav li:hover {
+  color: white;
+  background-color: rgb(39, 39, 255);
+}
+
+#joinUs {
+  background-color: darkgrey;
+  padding: 50px;
+}
+.navbar-nav a {
+  /* width: 150px; */
+  transition: 0.5s;
+  text-align: center;
+}
+
+.navbar-nav a:hover {
+  background-color: whitesmoke;
+}
+
+#aboutUs {
+  font-weight: 300;
+  display: flex;
+  text-align: center;
+}
+
+video {
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  background-color: darkgrey;
+  padding: 40px;
+}
+
+/* .theH2 {
+  color: white;
+} */
+
+/* #team {
+  width: 600px;
+} */
+
+#thefooter {
+  color: white;
+  background-color: grey;
+  text-align: center;
+  padding: 40px;
+  margin-bottom: 0px;
+}
+
+#footer {
+  display: flex;
+  align-items: center;
+}
